@@ -1,0 +1,14 @@
+#first{
+    background-image: url("rela2.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      margin-right: 200px;
+}
+
+#second{
+    background-image: url("grandma.gif");
+      background-repeat: no-repeat;
+      background-position: left;
+      margin-right: 200px;
+}
+
