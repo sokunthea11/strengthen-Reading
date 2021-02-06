@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    width: 900px;
+    height: 320px;
+    margin: 5px auto;
+    border: solid 1px black;
+}
+#header
+{
+    background-image: url(https://wallpapercave.com/wp/wp4020373.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.img
+{
+    width: 300px;
+    height: 100%;
+    float: left;
+    text-align: center;
+    transition: 0.2s;
+}
+img
+{
+    width: 120px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+img:hover
+{
+    width: 140px;
+}
+#footer
+{
+    background: #0984e3;
+}
