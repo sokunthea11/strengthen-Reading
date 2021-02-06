@@ -1,5 +1,8 @@
-
-
+body
+{
+    margin: 0;
+    padding: 0;
+}
 .container
 {
     width: 900px;
@@ -9,7 +12,7 @@
 }
 #header
 {
-    background-image: none;
+    background-image: url(https://wallpapercave.com/wp/wp4020373.jpg);
     background-size: cover;
     background-position: center;
 }
