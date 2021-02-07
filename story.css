@@ -6,3 +6,16 @@
 }
 
 
+.story{
+  display: flex;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+  justify-content: flex-start;
+}
+.rev{
+  flex-direction: row-reverse;
+}
+.story img{
+  border-radius: 5px;
+}
